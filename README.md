@@ -8,7 +8,7 @@ In this list usr can Add, Delete, Edit the data.
 <br>CSS
 <br>JavaScript
 <br>Bootstrap
-
+<br>cdnjs - Font-awesome
 ### Output ###
 ![Alt text](output1.png?raw=true "Edit Button")
 **Edit**
